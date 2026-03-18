@@ -1,1 +1,1 @@
-
+fdtfile=/dtb/rockchip/jws3399.dtb
